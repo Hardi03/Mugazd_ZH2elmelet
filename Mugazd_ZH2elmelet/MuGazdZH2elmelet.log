@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.24)  15 NOV 2023 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.24)  15 NOV 2023 20:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/kisha/Programok/vs code/Mugazd_ZH2elmelet/elmelet.tex"
-(c:/Users/kisha/Programok/vs code/Mugazd_ZH2elmelet/elmelet.tex
+**"c:/Users/kisha/Programok/vs code/Mugazd_ZH2elmelet/Mugazd_ZH2elmelet/MuGazdZH2elmelet.tex"
+(c:/Users/kisha/Programok/vs code/Mugazd_ZH2elmelet/Mugazd_ZH2elmelet/MuGazdZH2elmelet.tex
 LaTeX2e <2022-11-01>
 L3 programming layer <2022-11-02> (C:\Users\kisha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -867,8 +867,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count355
 \l__pdf_internal_box=\box152
-) (elmelet.aux)
-\openout1 = `elmelet.aux'.
+) (MuGazdZH2elmelet.aux)
+\openout1 = `MuGazdZH2elmelet.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
@@ -908,9 +908,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 51.
- (elmelet.out) (elmelet.out)
+ (MuGazdZH2elmelet.out) (MuGazdZH2elmelet.out)
 \@outlinefile=\write4
-\openout4 = `elmelet.out'.
+\openout4 = `MuGazdZH2elmelet.out'.
 
  (C:\Users\kisha\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -1047,20 +1047,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
-[4 <./hisztogram.png>] [5] (elmelet.aux)
-Package rerunfilecheck Info: File `elmelet.out' has not changed.
+[4 <./hisztogram.png>] [5] (MuGazdZH2elmelet.aux)
+Package rerunfilecheck Info: File `MuGazdZH2elmelet.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  39099 strings out of 475285
- 894473 string characters out of 2774119
- 1391571 words of memory out of 3000000
+ 894797 string characters out of 2774119
+ 1391580 words of memory out of 3000000
  59916 multiletter control sequences out of 15000+600000
  485487 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,94p,931b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 99i,11n,94p,958b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\kisha\AppData\Local\MiKTeX\fonts/pk/ljfour/public/esint/dpi657\esint10.pk> <C:\Users\kisha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\kisha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\kisha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\kisha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\kisha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:\Users\kisha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\kisha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk><C:/Users/kisha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/kisha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/kisha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/kisha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kisha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/kisha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kisha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on elmelet.pdf (6 pages, 665614 bytes).
+Output written on MuGazdZH2elmelet.pdf (6 pages, 665614 bytes).
 PDF statistics:
  267 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
